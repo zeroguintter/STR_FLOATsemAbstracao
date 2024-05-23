@@ -45,3 +45,5 @@ while True:
         break
     else:
        print(transformadorSTR_FLOAT(valor))
+
+#opa
